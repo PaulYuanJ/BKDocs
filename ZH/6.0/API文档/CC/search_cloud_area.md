@@ -51,7 +51,7 @@ POST
 {
     "condition": {
         "bk_cloud_id": 12,
-        "bk_cloud_name" "aws",
+        "bk_cloud_name": "aws",
     },
     "page":{
         "start":0,
